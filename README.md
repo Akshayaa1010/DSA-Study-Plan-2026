@@ -4,10 +4,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
