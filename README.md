@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
