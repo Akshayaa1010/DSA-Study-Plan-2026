@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
