@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
