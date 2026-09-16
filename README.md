@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
