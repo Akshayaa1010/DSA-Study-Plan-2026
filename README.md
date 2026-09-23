@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0038-count-and-say) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
