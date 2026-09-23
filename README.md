@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0038-count-and-say) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
 ## Manacher
 |  |
 | ------- |
