@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0212-word-search-ii) |
+| [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1046-last-stone-weight) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
