@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
+| [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 ## Manacher
 |  |
 | ------- |
