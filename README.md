@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
 | [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
+| [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [1046-last-stone-weight](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
+| [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0212-word-search-ii) |
+| [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
