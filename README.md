@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
+| [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 | [1046-last-stone-weight](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0523-continuous-subarray-sum) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
+| [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 | [1122-relative-sort-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1122-relative-sort-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0015-3sum) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
+| [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 | [1122-relative-sort-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0799-champagne-tower](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0799-champagne-tower) |
+| [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 ## Manacher
 |  |
 | ------- |
