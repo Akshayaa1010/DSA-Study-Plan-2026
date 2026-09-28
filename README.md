@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
