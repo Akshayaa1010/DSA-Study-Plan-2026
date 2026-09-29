@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0071-simplify-path) |
 | [0212-word-search-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0212-word-search-ii) |
 | [0383-ransom-note](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
