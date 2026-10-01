@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1922-count-good-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0326-power-of-three) |
+| [1922-count-good-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3483-unique-3-digit-even-numbers) |
