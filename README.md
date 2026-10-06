@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0045-jump-game-ii) |
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0799-champagne-tower](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0799-champagne-tower) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0045-jump-game-ii) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
