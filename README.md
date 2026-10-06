@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0071-simplify-path) |
 | [0212-word-search-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0212-word-search-ii) |
+| [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0409-longest-palindrome) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0045-jump-game-ii) |
+| [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
 ## Design
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
