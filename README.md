@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0200-number-of-islands) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0045-jump-game-ii) |
 | [0097-interleaving-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
 | [0799-champagne-tower](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0799-champagne-tower) |
