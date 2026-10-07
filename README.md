@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 | [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [1046-last-stone-weight](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1046-last-stone-weight) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0799-champagne-tower](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0799-champagne-tower) |
 | [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 ## Manacher
@@ -275,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
