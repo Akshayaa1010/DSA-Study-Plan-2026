@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
