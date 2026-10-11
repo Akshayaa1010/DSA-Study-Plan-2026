@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0326-power-of-three) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0876-middle-of-the-linked-list) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
