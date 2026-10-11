@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0876-middle-of-the-linked-list) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0316-remove-duplicate-letters) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -279,11 +282,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
