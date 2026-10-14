@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0212-word-search-ii) |
 | [0376-wiggle-subsequence](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0376-wiggle-subsequence) |
+| [0475-heaters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0605-can-place-flowers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
+| [0475-heaters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0475-heaters) |
 | [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0475-heaters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Table
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0015-3sum) |
+| [0475-heaters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0475-heaters) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
 | [0823-binary-trees-with-factors](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0823-binary-trees-with-factors) |
 | [1122-relative-sort-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/1122-relative-sort-array) |
