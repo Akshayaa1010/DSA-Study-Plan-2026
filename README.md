@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0475-heaters) |
+| [0541-reverse-string-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0541-reverse-string-ii) |
 | [0767-reorganize-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0767-reorganize-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
