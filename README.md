@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0120-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Akshayaa1010/DSA-Study-Plan-2026/tree/master/0234-palindrome-linked-list) |
